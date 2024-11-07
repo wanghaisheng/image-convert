@@ -2,6 +2,10 @@
 
 Welcome to the **WASM Image Converter** repository! This project is designed to convert different file formats quickly and securely using WebAssembly (WASM). The app is built with TypeScript, Vue, Nuxt, and Rust, utilizing the `image-rs` library for image processing.
 
+**Disclaimer**: Work on this repository is halted and moved over to https://github.com/refilelabs/image.  
+Using this organization I aim to offer a broader suite of tools that go beyond image conversion, all focused on secure and efficient file handling.
+Of course, everything remains open source - I'd be very happy if you take a look: https://refilelabs.com/!
+
 ## Table of Contents
 
 - [WASM File Converter](#wasm-file-converter)
